@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt` ~
-  - `String` *
-  - `Symbol` *
-  - `Infinity` ~
-  - `NaN` ~
-  - `undefined` *
-  - `null` *
-  - `this` ~
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 👂 heard
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 👂 heard
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof` *
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
@@ -26,28 +26,28 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global` ~
+  - `global`: 👂 heard
   - `globalThis`
   - `window`
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators *
-  - Logical operators *
-  - Logical Assignment *
-  - Bitwise operators +
-  - Ternary operator *
-  - `void` +
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🖐️ used
+  - `void`: 🎓 known
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete` *
-  - `in` *
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
   - `super`
   - `eval`
-  - `static` +
+  - `static`: 🎓 known
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -56,41 +56,41 @@
   - Computed properties
   - Instance class fields
   - Static class fields
-  - Private class fields ~
-  - Private class methods ~
+  - Private class fields: 👂 heard
+  - Private class methods: 👂 heard
 - Statements
-  - `if` *
-  - `while` *
-  - `do..while` *
-  - `for` *
-  - `for..in` *
-  - `for..of` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` +
-  - `break` *
-  - `continue` *
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
   - `import`
   - `export`
   - `label`
-  - `try..catch` +
-  - `switch` *
-  - `class` ~
+  - `try..catch`: 🎓 known
+  - `switch`: 🖐️ used
+  - `class`: 👂 heard
   - `extends`
   - `with`
   - `new`
 - Functions
   - Arrow function
   - Async function
-  - Function declaration *
-  - Function expression *
-  - Default parameters *
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` *
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` *
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math` *
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON` *
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console` *
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js *
-  - npm ~
+  - Node.js: 🖐️ used
+  - npm: 👂 heard
   - prettier
   - MDN
   - TC39
