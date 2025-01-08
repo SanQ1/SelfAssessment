@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt` ~
+  - `String` *
+  - `Symbol` *
+  - `Infinity` ~
+  - `NaN` ~
+  - `undefined` *
+  - `null` *
+  - `this` ~
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` *
   - Destructuring
   - Generators
   - Iterators
@@ -26,28 +26,28 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global` ~
   - `globalThis`
   - `window`
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Equality operators  *
+  - Logical operators *
+  - Logical Assignment *
+  - Bitwise operators *
+  - Ternary operator *
+  - `void` ~
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`
-  - `in`
+  - `delete` *
+  - `in`  *
   - `super`
   - `eval`
-  - `static`
+  - `static` ~
   - `Number.parseInt`
   - `Number.parseFloat`
   - Property descriptors
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` *
+  - `while` *
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
   - `for await`
-  - `throw`
-  - `break`
-  - `continue`
+  - `throw` ~
+  - `break` *
+  - `continue` *
   - `import`
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
+  - `try..catch` ~
+  - `switch` *
+  - `class` ~
   - `extends`
   - `with`
-  - `new`
+  - `new` ~
 - Functions
   - Arrow function
   - Async function
   - Function declaration
   - Function expression
-  - Default parameters
+  - Default parameters *
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
+  - `Array` *
+  - `Map` ~
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` *
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON` ~
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
   - `Promise`
-  - `console`
+  - `console` *
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js *
+  - npm ~
   - prettier
   - MDN
   - TC39
