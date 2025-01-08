@@ -61,7 +61,7 @@
   - Coding conventions
   - Camel case
   - Snake case
-  - Kebab case
+  - Kebab case ~
   - Trailing commas
   - Return early
   - Fail-fast
